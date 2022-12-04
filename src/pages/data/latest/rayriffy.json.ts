@@ -25,7 +25,7 @@ export const get = async () => {
         new Date(b.frontmatter.date).getTime() -
         new Date(a.frontmatter.date).getTime()
     )
-    .filter(o => o.frontmatter.author === 'Phumrapee Limpianchop')
+    .filter(o => o.frontmatter.author === 'Siravij Praevisavakij')
     .slice(0, 12)
     .map(item => ({
       url: item.url,
