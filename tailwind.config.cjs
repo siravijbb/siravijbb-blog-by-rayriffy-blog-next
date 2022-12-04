@@ -17,8 +17,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        sans: ['Niramit', ...defaultTheme.fontFamily.sans],
-        header: ['LINE Seed', ...defaultTheme.fontFamily.sans],
+        sans: ['SukhumvitSet', ...defaultTheme.fontFamily.sans],
+        header: ['SukhumvitSet-Bold', ...defaultTheme.fontFamily.sans],
       },
       backgroundColor: {
         'black-overlay': 'rgba(0, 0, 0, 0.25)',

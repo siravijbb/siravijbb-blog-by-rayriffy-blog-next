@@ -7,7 +7,8 @@ interface HeaderNavationItem {
 }
 
 export const headerNavationItems: HeaderNavationItem[] = [
-  {
+  
+  /* {
     key: 'home',
     href: '/',
     name: 'Home',
@@ -17,11 +18,5 @@ export const headerNavationItems: HeaderNavationItem[] = [
     href: '/category',
     name: 'Category',
     disabled: true,
-  },
-  {
-    key: 'music',
-    href: 'https://music.apple.com/jp/playlist/riffys-playlist/pl.u-gxblkLDC5PkYPXL',
-    name: '♪',
-    external: true,
-  },
-]
+  },*/
+] 
