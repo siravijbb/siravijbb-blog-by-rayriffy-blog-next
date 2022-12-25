@@ -39,9 +39,9 @@ export const get = async () => {
     })
 
   return rss({
-    title: 'Riffy Blog',
-    description: 'The Nerdy Blogger',
-    site: 'https://blog.rayriffy.com',
+    title: 'Siravij Blog',
+    description: 'The Siravijbb Blog',
+    site: 'https://siravijbb.rayriffy.com',
     items: rssItems,
   })
 }
